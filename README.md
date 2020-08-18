@@ -5,6 +5,6 @@
 - II. Rozdział
 - III. Rozdział
 
-### Rozdział 1
+### I. Rozdział
 Ale to już jest prawdziwy opis tego rozdziału.
 Tutaj Geralt chodzi po Wyzimie.
